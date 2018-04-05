@@ -1,6 +1,5 @@
-# Lab 3 - Dialog window base class
+# Dialog window base class
 # Rabia Mohiuddin
-# CIS 41B
 # Winter 2018
 
 import tkinter as tk
