@@ -82,7 +82,7 @@ class MainWindow(tk.Tk) :
         s.config(command=self.lbox.yview)    # as you scroll it will show with the lbox
         s.grid(row=1,column=3, sticky='nsw', pady=5)  # put scroll bar in the grid        
   
-         
+        # View 
         #       |      col 0       |     col 1      |       col 2
         # -----------------------------------------------------------------
         # row 0 |   Add a Student  | |Click to Add| |     Student List
