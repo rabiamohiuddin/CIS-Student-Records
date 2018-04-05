@@ -1,5 +1,7 @@
 # CIS-Student-Records
 Add student records to list using their name, student ID number, and favorite language
-Files:
-  studentRecords.py - Main file to run,
-  dialog.py - Creates dialog window
+# Files:
+<ul>
+   <li> studentRecords.py - Main file to run </li>
+   <li> dialog.py - Creates dialog window </li>
+ </ul>
