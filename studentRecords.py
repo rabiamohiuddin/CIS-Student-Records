@@ -1,6 +1,5 @@
-# lab 3: GUI with Tkinter, OOP
+# GUI with Tkinter, OOP
 # Rabia Mohiuddin
-# CIS 41B
 # Winter 2018
 
 import tkinter as tk
